@@ -1,0 +1,44 @@
+html{
+    height: 100%;
+    width: 100%;
+    margin:0;
+    background-color: #60D3F6;
+}
+body{
+    margin: 0px;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    padding: 10px;
+    border: 5px solid whitesmoke;
+}
+
+#two{
+    background-color: seagreen;
+    border: 10px solid whitesmoke;
+    margin-left: 230px;
+    
+}
+
+#three{
+    background-color: #C393F3;
+    border: 20px solid whitesmoke;
+    margin-left: 470px;
+  
+}
+
+#four{
+    background-color: teal;
+    border: 40px solid whitesmoke;
+    margin-left: 730px;
+   
+}
+
+#five{
+    background-color: #EB387A;
+    border: 80px solid whitesmoke;
+    margin-left: 1000px;
+    
+}
